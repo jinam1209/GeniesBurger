@@ -1,5 +1,5 @@
 # Spring TEAM PROJECT <br> 2021/7/5 ~ 2021/7/25 
-## 3주 동안 진행한 키오스크입니다.
+## 국비지원 교육 과정에서 3주간 진행한 키오스크 프로젝트입니다.
 - 쿠폰 등록,발급, 사용 그리고 재고 주문, 연매출, 오늘 매출과 어제 매출, 어제 매출 대비 오늘 매출의 증감률 표시 등 관리자부분을 담당했습니다. <br>
 - Eclipse, JAVA, JavaScript, Tomcat, Oracle, Mybatis, jQuery, Spring-Framework, Bootstrap 사용  <Br>
 <img width="1072" alt="매출" src="https://user-images.githubusercontent.com/85466326/127731404-dd908c99-bd91-4cac-812a-7df4d1f3c511.PNG">
